@@ -1,0 +1,64 @@
+*{
+    font-family: "Poppins",sans-serif;
+}
+.judul h1 {
+    margin-bottom: -100px;
+    text-align: center;
+}
+
+.kotak {
+width: 610px;
+height: 329px;
+gap: 0px;
+border-radius: 30px;
+opacity: 0px;
+background-color: #DBDBDB;
+margin: auto;
+margin: 30vh auto 0 auto;
+display: flex;
+flex-direction: column;
+align-items:center ;
+}
+.gambar {
+    margin-top: -65px;
+
+
+}
+.tulisan {
+width: 475px;
+height: 56px;
+margin-top: -15px;
+background-color :#FEEEE2;
+border-radius: 20px;
+}
+.tulisan h2{
+font-size: 16px;
+text-align: center;
+
+}
+.tombol {
+    display: flex;
+    gap: 25px;
+    font-size: 16px;
+}
+.ijo {
+    width: 157px;
+    height: 41px;
+    gap: 20px;
+    border-radius: 12px;
+    opacity: 0px;
+    margin-top: 20px;
+    background-color: #6FD240;
+    border: none;
+}
+.abang {
+    width: 157px;
+    height: 41px;
+    gap: 20px;
+    border-radius: 12px;
+    opacity: 0px;
+    margin-top: 20px;
+    background-color:#E12E2E;
+    border: none;
+    color: #ffffff;
+}
